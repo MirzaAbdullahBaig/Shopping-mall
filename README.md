@@ -1,9 +1,41 @@
-# Shopping-mall
-# React + Vite
+# Create eCommerce Website Using [React](https://vite.dev/) & [Tailwind](https://tailwindcss.com/) 🛒
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About the Project 📝
+This is an eCommerce website built using React and Tailwind CSS, with designs inspired by Figma layouts. It provides a seamless and responsive shopping experience for users.
 
-Currently, two official plugins are available:
+## Technologies Used 👩🏻‍💻
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [React](https://vite.dev/): For building the frontend user interface.
+- [Tailwind CSS](https://tailwindcss.com/): For styling and responsive design.
+- [Figma](https://www.figma.com/design/tFKYEH6oPfC1LVGhqisYgg/E-commerce?node-id=0-1&node-type=canvas&t=5C7H5V0y4NUQnNtw-0): Used for the initial design and layout reference.
+- [Surge](https://surge.sh): Deployed for fast and reliable hosting.
+
+## Run Locally ☕
+
+To run this project in local host, you will need to follow some bellow step.
+
+### Open Terminal and Run Bellow Commands  👨🏻‍💻
+
+1 `git clone https://github.com/MirzaAbdullahBaig/Shopping-mall`
+
+2 `cd [my-project]`
+
+3 `npm i`
+
+4 `npm run dev`
+
+
+## Deployment 🧑‍🚀
+
+The project is live on Surge. You can view it here: [Live Demo](https://xhopping-mall.surge.sh)
+
+## Contributing 🤝🏼
+
+Contributions are welcome! Please follow the contributing guidelines to help improve the project.
+
+
+##  Links 🔗
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirzaabdullahbaig0/)
+
+
+![Account Dropdown With account](https://github.com/user-attachments/assets/eb1795dd-4d00-4c56-ac23-54406c1100bd)

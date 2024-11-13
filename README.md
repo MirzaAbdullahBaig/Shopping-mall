@@ -18,7 +18,7 @@ To run this project in local host, you will need to follow some bellow step.
 
 1 `git clone https://github.com/MirzaAbdullahBaig/Shopping-mall`
 
-2 `cd [my-project]`
+2 `cd Shopping-mall`
 
 3 `npm i`
 

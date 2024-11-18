@@ -45,4 +45,4 @@ Contributions are welcome! Please follow the contributing guidelines to help imp
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirzaabdullahbaig0/)
 
 
-![Account Dropdown With account](https://github.com/user-attachments/assets/eb1795dd-4d00-4c56-ac23-54406c1100bd)
+[![Account Dropdown With account](https://github.com/user-attachments/assets/eb1795dd-4d00-4c56-ac23-54406c1100bd)](https://www.figma.com/design/tFKYEH6oPfC1LVGhqisYgg/E-commerce?node-id=0-1&node-type=canvas&t=5C7H5V0y4NUQnNtw-0)

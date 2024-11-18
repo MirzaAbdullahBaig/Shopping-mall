@@ -16,14 +16,21 @@ To run this project in local host, you will need to follow some bellow step.
 
 ### Open Terminal and Run Bellow Commands  👨🏻‍💻
 
-1 `git clone https://github.com/MirzaAbdullahBaig/Shopping-mall`
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/MirzaAbdullahBaig/Shopping-mall
 
-2 `cd Shopping-mall`
+2. Clone the repository:  
+   ```bash
+   cd Shopping-mall
 
-3 `npm i`
+3. Install dependencies:  
+   ```bash
+   npm i
 
-4 `npm run dev`
-
+4. Start the development server:  
+   ```bash
+   npm run dev
 
 ## Deployment 🧑‍🚀
 
